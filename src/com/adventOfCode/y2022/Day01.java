@@ -1,7 +1,6 @@
 package com.adventOfCode.y2022;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.OptionalInt;
 import java.util.stream.Stream;
 
@@ -22,7 +21,7 @@ public class Day01 {
                         
             10000""";
 
-    public final static String INPUT = """
+    public static final String INPUT = """
             5229
             1021
             2051
